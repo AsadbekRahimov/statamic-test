@@ -27,6 +27,12 @@ tabs:
             field:
               type: markdown
               localizable: true
+          -
+            handle: image
+            field:
+              container: images
+              type: assets
+              display: Image
   sidebar:
     display: Sidebar
     sections:
